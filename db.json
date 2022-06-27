@@ -1,0 +1,94 @@
+{ 
+  "gratitude": [ 
+    { 
+     "id": 1,
+     "contents": "Życie to bezcenny dar, który otrzymałeś i powinieneś być za niego wdzięczny.",
+     "name": "Twoje życie"
+    },
+    { 
+     "id": 2,
+     "contents": "Każdy dzień kiedy dopisuje Ci zdrowie jest cenny. Doceniaj swoje ciało, swoją sprawność. Wiele osób, zaczyna myśleć o wartości zdrowia dopiero, gdy je stracą i dopada ich choroba.",
+     "name": "Dobre zdrowie"
+      
+    },
+    { 
+     "id": 3,
+     "contents": "Jeśli masz w życiu osoby, które możesz nazwać swoimi przyjaciółmi to jest bardzo cenne.",
+     "name": "Przyjaciele"
+      
+    }, 
+    { 
+     "id": 4,
+     "contents": "Jeśli masz gdzie mieszkać i masz miejsce, które możesz nazwać swoim domem to doceń, że nie jesteś bezdomnym.",
+     "name": "Dach nad głową"
+      
+    },
+    { 
+     "id": 5,
+     "contents": "Możliwość nauki, uczęszczania do szkoły, czy na studia, rozwijania swojego intelektu to coś za co warto być wdzięcznym.",
+     "name": "Możliwość edukacji"
+      
+    }, 
+    { 
+     "id": 6,
+     "contents": "Możliwość uśmiechania się i radość sprawia, że czujemy się dobrze. Świat bez uśmiechu byłby smutnym i ponurym miejscem.",
+     "name": "Radość i uśmiech"
+      
+    }, 
+    { 
+     "id": 7,
+     "contents": "Samochody, samoloty, autokary itp. sprawiają, że możemy szybko się przemieszczać na duże odległości i poznawać nieznane nam dotąd zakątki świata. ",
+     "name": "Środki transportu"
+      
+    }, 
+    { 
+     "id": 8,
+     "contents": "To, że masz dostęp do czystej wody, której możesz się napić kiedy jesteś spragniony to również coś za co warto być wdzięcznym. Wbrew pozorom w skali świata posiadanie bieżącej wody w kranie to luksus.",
+     "name": "Czysta woda"
+      
+    }, 
+    { 
+     "id": 9,
+     "contents": "Wielu osobom brakuje pieniędzy, chcemy mieć ich więcej, aby kupować różne rzeczy i spełniać nasze pragnienia. Jednak to, że masz w ogóle jakieś pieniądze i nie musisz żebrać na ulicy, aby przeżyć to coś za co również możesz być wdzięczny.",
+     "name": "Pieniądze"
+      
+    }, 
+    { 
+     "id": 10,
+     "contents": "Nawet jeśli nie do końca jesteś zadowolony ze swojej obecnej pracy zatrudnienie oznacza, że ktoś uważa, że jesteś na tyle wyjątkowy, aby Cię zatrudnić. Praca daje Ci też środki finansowe do życia.",
+     "name": "Praca"
+      
+    },
+    { 
+     "id": 11,
+     "contents": "Muzyka to emocje. Muzyka upiększa nasze życie, świat bez muzyki byłby niepełny.",
+     "name": "Muzyka"
+      
+    },
+    { 
+     "id": 12,
+     "contents": "Jesli masz kogo kochać i sam jesteś kochany to jest to coś wspaniałego. Bądź wdzięczny za miłość i jej pozytywny wpływ na Twoje życie.",
+     "name": "Miłość"
+      
+    },
+    { 
+     "id": 13,
+     "contents": "Relacje z rodzicami nie zawsze są dobre, jednak warto pamiętać, że to oni dali Ci życie i dzięki nim jesteś na tym świecie.",
+     "name": "Rodzice"
+      
+    },
+    { 
+     "id": 14,
+     "contents": "Podobnie jak z rodzicami stosunki z rodziną, krewnymi i rodzeństwem bywają różne. Jednak często możemy mieć oparcie w naszym bracie lub siostrze i innych członkach naszej rodziny. Jeśli tak jest warto doceniać ten fakt i być za to wdzięcznym.",
+     "name": "Rodzina i rodzeństwo"
+      
+    },
+    { 
+     "id": 15,
+     "contents": "Bądź wdzięczny za siłę i odwagę, która pozwala Ci iść przez życie. Za to, że jesteś w stanie stawić czoła swoim problemom i przezwyciężyć swoje smutki, realizować swoje cele i spełniać marzenia.",
+     "name": "Siła i odwaga"
+      
+    }
+
+]
+}  
